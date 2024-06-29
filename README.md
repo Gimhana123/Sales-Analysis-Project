@@ -4,7 +4,7 @@
   <img src="https://github.com/Gimhana123/Sales-Analysis-Project/blob/main/Screenshot%20(1064).png?raw=true">
 </div>
 
-
+<br><br>
 This repository contains the code and resources for a comprehensive sales dashboard project using Power BI. The dashboard visualizes key sales metrics, providing insights into revenue, quantity sold, profit margins, and top products and customers across different markets.
 
 ### Data Analysis Using SQL
